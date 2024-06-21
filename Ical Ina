@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wedding Invitation</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Wedding Invitation</h1>
+        <p>You are invited to celebrate the wedding of</p>
+        <h2>John Doe & Jane Smith</h2>
+        <p>on Saturday, July 20th, 2024</p>
+        <p>at 2:00 PM</p>
+        <p>123 Love Street, Blissville</p>
+    </header>
+
+    <section class="details">
+        <h3>Details</h3>
+        <p>Please join us for an afternoon of love, laughter, and celebration.</p>
+        <p>Kindly RSVP by July 1st, 2024.</p>
+    </section>
+
+    <footer>
+        <p>Designed by Your Name</p>
+    </footer>
+</body>
+</html>
